@@ -21,7 +21,7 @@ Provide an anlysis on data compiled using SQL to help Pewlett-Hackard prepare fo
 <br />
 <br />
 <p align="center">
-    <img src="Deliverable_1.png">
+    <img src="Deliverable_1.PNG">
 </p>
 <p align="center">
 Figure 1
@@ -31,7 +31,7 @@ Figure 1
 <br />
 <br />
 <p align="center">
-    <img src="Deliverable_2.png">
+    <img src="Deliverable_2.PNG">
 </p>
 <p align="center">
 Figure 2
